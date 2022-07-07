@@ -4,4 +4,4 @@ Pembagian tugasnya :
 Nadja Shafa 	= Halaman Home 
 Ryan Rizky 	= Login-Register
 Hasbi 		= Halaman Booking (termasuk destinasi dan package)
-Farras  		= Halaman Profile
+Farras  		= Halaman Profile-About Us
